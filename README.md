@@ -1,13 +1,13 @@
-### Hello!
+### Hello! 
 
-I'm a student at the University of Otago, studying Computer Science and Microbiology/Immunology.
+I'm a final year undergrad student at the University of Otago, studying Computer Science and Microbiology/Immunology. 📚
 
-I've been working a lot with Swift lately, primarily on the app Receipted (345-Project). 
-My team's incredible work is set for a full release on October 4th! I'd love if you checked it out.
+Check out my repos to see some of my experience with different languages, skills and concepts. 🌳
 
-[![](https://github-readme-stats.vercel.app/api?username=hunterkingsbeer)]
+I've been working a lot with Swift lately, primarily on the app [Receipted](https://github.com/hunterkingsbeer/345-Project). 
+My team's incredible work is set for a full release on October 4th! I'd love if you checked it out. 📸
 
-
+![](https://github-readme-stats.vercel.app/api?username=hunterkingsbeer&count_private=true&show_icons=true&theme=github_dark&hide=contribs)
 
 <!--
 **hunterkingsbeer/hunterkingsbeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
