@@ -5,7 +5,7 @@ I'm a student at the University of Otago, studying Computer Science and Microbio
 I've been working a lot with Swift lately, primarily on the app Receipted (345-Project). 
 My team's incredible work is set for a full release on October 4th! I'd love if you checked it out.
 
-[![](https://github-readme-stats.vercel.app/api?username=hunterkingsbeer)](https://github.com/hunterkingsbeer/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=hunterkingsbeer)]
 
 
 
