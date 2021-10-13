@@ -1,6 +1,5 @@
 ### Hello, I'm Hunter Kingsbeer! Nice to meet you :)
-I've recently been working on a software engineering project: Receipted. It was released on the app store in mid October, a huge achievement for me and my team. 
-https://apps.apple.com/nz/app/receipted/id1589713322
+Lately, my main focus has been on a software engineering project: Receipted. It was recently released on the app store, which is a huge achievement for me and my team. https://apps.apple.com/nz/app/receipted/id1589713322
 
 ![](https://github-readme-stats.vercel.app/api?username=hunterkingsbeer&count_private=true&show_icons=true&theme=github_dark&hide=contribs)
 
