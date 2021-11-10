@@ -1,6 +1,8 @@
 ### Hello, I'm Hunter! Nice to meet you :)
 Lately, my focus has been on my software engineering project Receipted! It was recently released on the app store, which is a huge achievement for me and my team. https://apps.apple.com/nz/app/receipted/id1589713322
 
+Starting this summer, I am joining the Education Perfect team in Dunedin as a software engineer. I feel incredibly priviledged to have the opportunity to join EP, and am excited to see what I can achieve working with the team!
+
 ![](https://github-readme-stats.vercel.app/api?username=hunterkingsbeer&count_private=true&show_icons=true&theme=github_dark&hide=contribs)
 
 <!--
