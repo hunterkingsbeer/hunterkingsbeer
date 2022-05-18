@@ -1,21 +1,10 @@
-### Hello, I'm Hunter! Nice to meet you :)
-Lately, my focus has been on my software engineering project Receipted! It was recently released on the app store, which is a huge achievement for me and my team. https://apps.apple.com/nz/app/receipted/id1589713322
+### Hello, I'm Hunter!
 
-I am joining the Education Perfect team in Dunedin as a software engineer. I feel incredibly priviledged to have the opportunity to join EP, and am excited to see what I can achieve working with the team!
+
+I'm currently a software engineer in the Lexicon team at Education Perfect. 
+
+Fullstack - but focusing on backend. Working primarily with F#/.NET to make micro-services surrounding content! I have a big interest in app development, specifically using Swift and SwiftUI.
+
+- My app [Receipted](https://apps.apple.com/nz/app/receipted/id1589713322) is on the app store! 
 
 ![](https://github-readme-stats.vercel.app/api?username=hunterkingsbeer&count_private=true&show_icons=true&theme=github_dark&hide=contribs)
-
-<!--
-**hunterkingsbeer/hunterkingsbeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
