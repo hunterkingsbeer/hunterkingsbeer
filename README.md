@@ -1,10 +1,12 @@
-### Hello, I'm Hunter!
+# Hello, I'm Hunter!
 
 
-I'm currently a software engineer in the Lexicon team at Education Perfect. 
+### I'm a software engineer in the Lexicon team at Education Perfect. 
 
-Fullstack - focusing on backend. Working primarily with F#/.NET to make micro-services surrounding our content! I have a big interest in app development, specifically using Swift and SwiftUI.
+🎓 Finished my computer science degree at the Univeristy of Otago in 2021
 
-- My app [Receipted](https://apps.apple.com/nz/app/receipted/id1589713322) is on the app store! 
+💻 Fullstack, with a focus on backend. I spend all day using .NET (F# & C#), Terraform, AWS, GraphQL, and more, to create next gen micro-services that provide our platform with millions of lessons and content! 
+
+📱 I have a huge interest in mobile app development, specifically using Swift & SwiftUI - see my app [Receipted](https://apps.apple.com/nz/app/receipted/id1589713322) on the app store!
 
 ![](https://github-readme-stats.vercel.app/api?username=hunterkingsbeer&count_private=true&show_icons=true&theme=github_dark&hide=contribs)
