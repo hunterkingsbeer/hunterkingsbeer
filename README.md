@@ -4,11 +4,10 @@
 
 🎓 Finished my computer science degree at the Univeristy of Otago in 2021
 
-💻 Fullstack, with a focus on backend. Most days I'm using 
-- .NET (F# & C#), 
-- Terraform, AWS, Azure, 
+💻 Fullstack, with a focus on backend. I'm using a handful of tech to create services that provide our platform with millions of lessons and content
+- .NET (F# & C#)
+- Terraform, AWS, Azure & GitHub Actions
 - GraphQL, Elastic Search/Kibana
-to create services that provide our platform with millions of lessons and content! 
 
 📱 I have a huge interest in mobile app development, specifically using Swift & SwiftUI - see my app [Receipted](https://apps.apple.com/nz/app/receipted/id1589713322) on the app store!
 
